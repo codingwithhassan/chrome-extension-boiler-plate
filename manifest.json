@@ -1,7 +1,7 @@
 {
     "name" : "First Chrome Extension",
     "version" : "1.0.0",
-    "description" : "fsdkafdsklaf",
+    "description" : "My first chrome Extension description",
     "permissions" : ["storage","tabs"],
     "host_permissions": ["http://127.0.0.1/*"],
     "background" : {
